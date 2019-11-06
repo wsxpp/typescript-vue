@@ -25,6 +25,7 @@
     "@vue/eslint-config-airbnb": "^4.0.0",
     "@vue/eslint-config-typescript": "^4.0.0",
     "eslint": "^5.16.0",
+    "eslint-plugin-html": "^6.0.0",
     "eslint-plugin-vue": "^5.0.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
